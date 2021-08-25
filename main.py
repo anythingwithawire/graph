@@ -225,7 +225,7 @@ class MainWindow(QMainWindow):
 
         # nodes.drawNode('LSL-1002', painter)
         # nodes.drawNode('LSH-1002', painter)
-        self.painter.scale(1.7,1.7)
+        self.painter.scale(1.0,1.0)
         #painter = nodes.drawAllNodes(painter)
 
 
